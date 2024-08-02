@@ -1,0 +1,14 @@
+#imagem{
+    border: solid 10px red;
+    border-radius: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.chopper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
